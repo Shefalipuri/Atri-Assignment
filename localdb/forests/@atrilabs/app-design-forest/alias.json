@@ -1,0 +1,12 @@
+{
+  "Flex": 27,
+  "TextBox": 25,
+  "Image": 12,
+  "Div": 15,
+  "Button": 2,
+  "Link": 1,
+  "Overlay": 2,
+  "Carousel": 1,
+  "Input": 1,
+  "Accordion": 1
+}
